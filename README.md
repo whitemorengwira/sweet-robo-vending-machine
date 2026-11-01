@@ -49,8 +49,8 @@ Across my connected-machine work, I use **Claude Code** and **OpenAI Codex** to 
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
 - [Vending Machine](https://github.com/whitemorengwira/sweet-robo-vending-machine) — this showcase
-- [Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth)
-- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering)
+- [AI Photo Booth App](https://github.com/whitemorengwira/sweet-robo-photo-booth) — AI-powered application engineering
+- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) — AI-powered management, remote diagnostics and camera-AI workflows
 
 ## Sources and portfolio scope
 
