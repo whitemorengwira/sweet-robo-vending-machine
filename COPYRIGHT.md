@@ -1,8 +1,15 @@
-# Portfolio viewing notice
+# Portfolio and image credits
 
-This repository contains a public contribution summary and original conceptual illustrations prepared for portfolio review. It contains no product implementation source.
+This is Whitemore Ngwira’s engineering contribution portfolio. It is not an official company repository or a product source-code release.
 
-Sweet Robo and the relevant rights holders retain ownership of their products, software and trademarks. This showcase does not claim ownership of those assets or employer endorsement. No licence to proprietary software or product designs is granted.
+## Official public imagery
 
-The illustrations are AI-generated concepts, not actual product photographs, application screenshots or evidence of delivered hardware. Contact the author before reusing portfolio materials.
+The featured product and platform visuals come from the public websites of [Futureino](https://futureino.ai/) and [Sweet Robo](https://sweetrobo.com/). The README identifies the source page and the original image for each featured asset. Images are reproduced without alteration for product context; ownership and all applicable rights remain with their respective rights holders. No open-source or redistribution licence is granted by this repository.
 
+Published marketing visuals illustrate the products. They do not establish authorship of a product, interface or every advertised capability by the portfolio author.
+
+## Portfolio material
+
+The contribution narrative and engineering-process diagram describe the author’s work at a high level. Proprietary implementation source, private system designs and non-public operational records are not included.
+
+The earlier AI-generated concept cover at assets/hero.png is retained as an unused first-edition asset; it is not the current product visual. Current official imagery is credited above and in the README.
