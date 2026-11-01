@@ -1,76 +1,55 @@
 # Vending Machine
 
-### Integration analysis & engineering readiness
+### Hardware–software integration analysis for automated retail
 
-**Whitemore Ngwira · Sweet Robo · Selected engineering contributions**
+**Whitemore Ngwira · Engineering contributions at Sweet Robo**
 
-![Original concept illustration for Vending Machine; not actual company hardware or software](assets/hero.png)
+[Sweet Robo — official website](https://sweetrobo.com/) · [Futureino — official website](https://futureino.ai/) · [Explore the public product page](https://futureino.ai/best-vending-machines)
 
-*AI-generated concept illustration. The equipment and interface shown are fictional; they are not photographs or screenshots of Sweet Robo products.*
+<p align="center">
+  <a href="https://futureino.ai/best-vending-machines"><img src="assets/vending-official.webp" alt="Futureino’s published Snacks Bot product visual." width="520"></a>
+</p>
 
-## At a glance
+*Futureino’s published Snacks Bot product visual. [View source image](https://futureino.ai/machines/snacks-bot-lux.webp).*
 
-I carried out technical investigation and integration planning for vending-machine software during my work at Sweet Robo, translating hardware questions into software requirements and a practical validation plan.
+## My work
 
-**Focus:** Systems analysis and integration planning  
-**Skills demonstrated:** Android systems · Hardware/software integration · Technical research · Test planning · Engineering documentation
+During my work at Sweet Robo, I investigated vending-machine integration requirements and translated hardware questions into a practical software scope and validation plan.
 
-## The engineering challenge
+**Skills:** Android systems · Hardware–software integration · Technical research · Test planning
 
-A payment terminal's advertised capability is only one part of an unattended vending integration. Application support, the hardware interface and a real-machine test all need to agree before a compatibility claim is justified.
+## The product context
 
-## My contribution
+Futureino’s public vending range includes Snacks Bot, described with a touchscreen, an elevator-assisted dispensing mechanism, a collection window and remote inventory monitoring. [Official source](https://futureino.ai/best-vending-machines).
 
-### Compatibility investigation
+## My engineering contributions
 
-I compared terminal documentation with the application’s existing integration capabilities to distinguish supported behaviour from work still required.
+- **Compatibility assessment:** Compared public terminal documentation with the application’s integration capabilities to identify what was supported and what still needed development.
+- **Engineering scope:** Evaluated reusable engineering components and the adaptations needed for a vending workflow.
+- **Validation planning:** Defined the hardware, application and payment-provider confirmations needed before making a compatibility commitment.
+- **Decision support:** Prepared a concise technical assessment and supporting documentation to guide implementation planning.
 
-### Implementation scoping
+## What I produced
 
-I evaluated opportunities to reuse existing engineering work and identified the adaptation needed for a vending workflow.
+An integration assessment, an implementation outline and a concrete set of validation prerequisites. This contribution covers investigation and planning; it is not a claim that the proposed integration was deployed.
 
-### Validation planning
+## Engineering approach
 
-I identified the software, hardware and provider confirmations needed before a real-machine integration could be accepted.
+![High-level engineering process; not a proprietary system diagram](assets/workflow.svg)
 
-### Technical communication
+Connecting hardware documentation, software constraints and operational requirements into an engineering decision that a team can act on.
 
-I prepared a concise integration assessment and supporting learning documentation so the next engineering decision had a clear basis.
-
-## How I approached the work
-
-![Review requirements → Assess compatibility → Scope the adaptation → Define validation](assets/workflow.svg)
-
-*Illustrative investigation process; not a wiring diagram or proprietary integration specification.*
-
-1. Review requirements.
-2. Assess compatibility.
-3. Scope the adaptation.
-4. Define validation.
-
-## What the work produced
-
-The work produced an integration assessment, an implementation outline and a defined hardware-validation boundary.
-
-This showcase covers analysis and preparation. It does not claim that I implemented or deployed the proposed vending payment integration.
-
-## Public review boundary
-
-This is a documentation-only portfolio showcase. Private source code, internal platform names, infrastructure, endpoints, schemas, credentials, customer information, operational records and internal screenshots are excluded. Supporting work records remain private.
-
-The narrative explains my contribution within a team-owned product. The concept artwork is not evidence of implementation or an employer-approved product design.
-
-## Explore the series
+## Explore the engineering series
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
+- [Vending Machine](https://github.com/whitemorengwira/sweet-robo-vending-machine) — this showcase
 - [Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth)
 - [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering)
 
-## Contact
+## Sources and portfolio scope
 
-[GitHub profile](https://github.com/whitemorengwira) · [N.White Systems](https://nwhite.systems/) · [Email Whitemore](mailto:hello@nwhite.systems)
+Official product information and imagery: [Futureino](https://futureino.ai/) and [Sweet Robo](https://sweetrobo.com/). Product descriptions are attributed public context; the first-person contribution statements describe my own work within an existing team.
 
-I can discuss my engineering approach and responsibilities within the applicable confidentiality boundaries.
+This documentation-only portfolio excludes proprietary source code, private infrastructure and non-public operational information. It does not imply sole product authorship, employer endorsement or completion of every hardware and release milestone. See [image credits and viewing notice](COPYRIGHT.md).
 
-See [Portfolio viewing notice](COPYRIGHT.md).
-
+[Contact me](mailto:hello@nwhite.systems) · [N.White Systems](https://nwhite.systems/) · [GitHub profile](https://github.com/whitemorengwira)
